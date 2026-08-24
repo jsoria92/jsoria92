@@ -6,7 +6,7 @@
 <!--  -->
 
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Soy+Ingeniero+de+Computación+y+Sistemas+..♥++;Programador+en+varios+lenguajes;Me+gusta+la+Inteligencia+Artificial;La+vision+por+computadora;Y+crear+proyectos+open+source."></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Soy+Ingeniero+de+Sistemas+..♥++;Programador+en+varios+lenguajes;Me+gusta+la+Inteligencia+Artificial;La+vision+por+computadora;Y+crear+proyectos+open+source."></a>
 </p>
 
 ## <picture></picture> **About me**
@@ -21,12 +21,12 @@
 
 <p >
   - .NET Core y ASP.NET <br>
-  <!-- - React y Redux <br>
+  - React y Redux <br>
   - Node.js y Express <br>
   - GraphQL <br>
-  - Docker y Kubernetes -->
+  - Docker y Kubernetes
 </p>
-<!--
+
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
@@ -35,7 +35,7 @@
     </td>
   </tr>
 </table>
--->
+
 ---
 
 #### 🛠 Languages:
