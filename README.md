@@ -9,7 +9,7 @@
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Soy+Ingeniero+de+Sistemas+..♥++;Programador+en+varios+lenguajes;Me+gusta+la+Inteligencia+Artificial;La+vision+por+computadora;Y+crear+proyectos+open+source."></a>
 </p>
 
-## <picture><img src = "https://github.com/jesus73514145/jesus73514145/blob/master/gif/mdImages/about_me.gif" width = 50px></picture> *About me*
+## <picture><img src = "https://github.com/jsoria92/jsoria92/blob/master/gif/mdImages/about_me.gif" width = 50px></picture> *About me*
 
 <p >
   I'm a passionate developer who enjoys creating and learning new technologies. I love solving problems and building innovative solutions.
